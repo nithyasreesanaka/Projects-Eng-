@@ -4,7 +4,7 @@ def get_top_articles(query):
     params = {
         "engine": "google",
         "q": query,
-        "api_key": "c07c43de922d14d08aa137bd761afed44215ed373565f1b9efe5db1f661d3cb0",
+        "api_key": "YOUR_API_KEY",
         "num": 6,
     }
 
